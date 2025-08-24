@@ -1,2 +1,4 @@
 # test-repo
-Learning how to use with GitHub with Grok
+I'am Learning how to use with GitHub with Grok
+
+This is my first edit to the README!
